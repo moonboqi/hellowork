@@ -9,6 +9,7 @@ public class Tel11 {
 		System.out.println("13922201945".matches(regex));
 		
 		
-		System.out.println("¹ş¹ş£¬gitÓÃsourcetreeÁ¬½Ó³É¹¦À²");
+		System.out.println("Â¹Ã¾Â¹Ã¾Â£Â¬gitÃ“ÃƒsourcetreeÃÂ¬Â½Ã“Â³Ã‰Â¹Â¦Ã€Â²");
+		xxxyyyzzz
 	}
 }
