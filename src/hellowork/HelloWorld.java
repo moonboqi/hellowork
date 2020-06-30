@@ -12,6 +12,5 @@ public class HelloWorld {
 		System.out.println("HelloWorld4");
 		777888999
 		xxxyyyzzz
-		fffggghhh
 	}
 }
